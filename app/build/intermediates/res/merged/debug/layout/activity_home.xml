@@ -1,0 +1,28 @@
+<com.jingang.app.libs.DragLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/dl"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:clickable="true"
+    android:orientation="vertical"
+    tools:context=".HomeActivity"
+    android:background="@drawable/timg"
+    >
+
+    <include layout="@layout/wxtong_leftmenu" />
+
+    <com.jingang.app.libs.MyRelativeLayout
+        android:id="@+id/rl_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#eeeeee"
+        android:orientation="vertical"> 
+
+        <fragment
+            android:id="@+id/tab_bar_fragment"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentBottom="true"
+            class="com.jingang.app.tabhost.TabFragment" />
+    </com.jingang.app.libs.MyRelativeLayout>
+</com.jingang.app.libs.DragLayout>

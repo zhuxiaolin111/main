@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_middle_selector.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable\\tab_icon_middle_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_1_selector.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable\\tab_1_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_4_selector.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable\\tab_4_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_tab_indicator.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable\\custom_tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_5_selector.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable\\tab_5_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_2_selector.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable\\tab_2_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_3_selector.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable\\tab_3_selector.xml"
+    }
+]

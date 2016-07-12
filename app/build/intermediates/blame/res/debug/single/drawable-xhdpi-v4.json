@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\load_succeed.png",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable-xhdpi\\load_succeed.png"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add.png",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_kehu_arrow.png",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable-xhdpi\\icon_kehu_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_background.png",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable-xhdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\refresh_succeed.png",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable-xhdpi\\refresh_succeed.png"
+    }
+]

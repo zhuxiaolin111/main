@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_activity.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\layout\\setting_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_shu.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\layout\\fragment_shu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_yu.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\layout\\fragment_yu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wxtong_leftitem.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\layout\\wxtong_leftitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\layout\\listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\layout\\tab_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wxtong_leftmenu.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\layout\\wxtong_leftmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_item_layout.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\layout\\tab_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lingsheng_layout.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\layout\\lingsheng_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yu.xml",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\layout\\activity_yu.xml"
+    }
+]

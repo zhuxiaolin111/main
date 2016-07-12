@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\rbn_shu_pressed.png",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable-ldpi\\rbn_shu_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_kehu_arrow.png",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable-ldpi\\icon_kehu_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\rbn_wang_pressed.png",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable-ldpi\\rbn_wang_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\refresh_succeed.png",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable-ldpi\\refresh_succeed.png"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\add.png",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable-ldpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\rbn_wang_normal.png",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable-ldpi\\rbn_wang_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\rbn_shu_normal.png",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable-ldpi\\rbn_shu_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\top_background.png",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable-ldpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\rbn_yu_normal.png",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable-ldpi\\rbn_yu_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\mn\\Desktop\\main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\rbn_yu_pressed.png",
+        "source": "C:\\Users\\mn\\Desktop\\main\\app\\src\\main\\res\\drawable-ldpi\\rbn_yu_pressed.png"
+    }
+]
